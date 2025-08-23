@@ -11,7 +11,7 @@ A QR code that links to Frontend Mentor, the website that provided me with this 
 
 ### Screenshot
 
-![](./screenshot.png)
+![Solution](./solution.png)
 
 ### Built with
 
